@@ -1,9 +1,9 @@
-# José Vitor Cunha Barboza
+# Vitor Cunha Barboza
   Olá, sou um entusiasta na área da programação e procuro ser versátil em meus estudos aprendendo tanto FE quanto BE. Estudo ADS na Universidade Anhembi Morumbi e em meu tempo livre estudo novas metodologias de programação e curto meus jogos 🎮.
 
 
 ### Conecte-se comigo:
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:josevitor.barboza@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Google-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:josevitor.barboza@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/josé-vitor-cunha-barboza-9a9643152/)
 
 
