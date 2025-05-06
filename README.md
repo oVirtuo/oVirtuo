@@ -10,7 +10,6 @@ import {SoftwareDeveloper} from '@ovirtuo';
 
 class About extends SoftwareDeveloper {
   name = 'Vitor';
-  objective = 'Full-Stack Developer';
   location = 'Brasil, SP';
   languages = ["Portuguese", "English"];
   funFact  = "I can talk like Donald Duck 🦆";
