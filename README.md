@@ -12,7 +12,6 @@ class About extends SoftwareDeveloper {
   name = 'Vitor';
   location = 'Brasil, SP';
   languages = ["Portuguese", "English"];
-  funFact  = "I can talk like Donald Duck 🦆";
 }
 
 
