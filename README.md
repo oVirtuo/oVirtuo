@@ -1,5 +1,5 @@
 <h3> Hello world! I'm Vitor Cunha Barboza <img src='https://www.icegif.com/wp-content/uploads/2023/05/icegif-937.gif' width="35"/> </h3> 
-I'm a beginner programmer and I try to be versatile in my studies by learning both FE and BE. I study ADS at Anhembi Morumbi University, in my free time I study new programming methodologies and enjoy my games🎮.
+I'm a beginner Data Scientist. I study Data Science at UNIVESP, in my free time I study new programming methodologies and enjoy my games🎮.
 
 ## Loading... <img src='https://media.tenor.com/TAqs38FFJiwAAAAi/loading.gif' width='20'/>
 
@@ -40,7 +40,6 @@ Access my humble website: https://ovirtuo.github.io/
 ## 🔥 I want to learn
 
   ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=88dded)
-	![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=42A5F5)
 	![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=dd1b16)
 	![SpringBoot](https://img.shields.io/badge/SpringBoot-000?style=for-the-badge&logo=springboot&logoColor=6DB33F)
 
